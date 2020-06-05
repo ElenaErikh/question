@@ -7,7 +7,7 @@ import java.net.Socket;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 
-public class server {
+public class Server {
 
     final static int PORT = 8189;
 
