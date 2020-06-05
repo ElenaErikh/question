@@ -7,7 +7,7 @@ import java.net.UnknownHostException;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 
-public class client {
+public class Client {
     final static String IP_ADDRESS = "localhost";
     final static int PORT = 8189;
 
